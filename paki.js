@@ -3,7 +3,7 @@ imagenes ["Cauchin"] = "vaca.png";
 imagenes ["Pokacho"] = "pollo.png";
 imagenes ["Tocinauro"] = "cerdo.png";
 
-var coleccion[];
+var coleccion = [];
 
 coleccion.push(new Pakiman("Cauchin", 100, 30));
 coleccion.push(new Pakiman("Pokacho", 80, 50));
